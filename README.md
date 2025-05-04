@@ -39,3 +39,8 @@ Recursos úteis:
 - **Exemplos e Notebooks:** Explore exemplos de código e notebooks no GitHub para aprender a usar diferentes recursos.
 
 Este README fornece uma visão geral. A documentação oficial é o melhor recurso para informações detalhadas e tutoriais.
+
+## LABORATÓRIO 2 - CRIANDO UM RAG NA AZURE MACHINE LEARNING
+O processo de RAG na azure eu achei um pouco mais complicado, porém em resumo é criar os serviços, adicionar o modelo que faz os embeddings e depois criar o serviço de chat, que é o que vai fazer a ponte entre o modelo e o usuário.
+O modelo de embeddings é o mesmo do openai, porém a azure tem um modelo próprio que é o azure openai. Eu achei um pouco mais complicado de usar, mas é só questão de costume, pois conheço outra plataforma que também é possivel criar RAGs, que é o LangChain ou Flowise com pinecone como banco de dados vetorial, que acaba sendo mais simples de usar.
+
