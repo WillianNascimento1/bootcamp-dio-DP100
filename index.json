@@ -1,0 +1,32 @@
+{
+  "name": "Azure Machine Learning Overview",
+  "description": "Resumo dos principais recursos e casos de uso do Azure Machine Learning.",
+  "capabilities": [
+    "Azure Machine Learning Studio",
+    "Model Training",
+    "Automated Machine Learning (AutoML)",
+    "Model Deployment",
+    "MLOps",
+    "Data Drift Detection",
+    "Responsible ML",
+    "Feature Store (Preview)"
+  ],
+  "common_use_cases": [
+    "Previsão de Vendas",
+    "Detecção de Fraudes",
+    "Manutenção Preditiva",
+    "Análise de Sentimento",
+    "Visão Computacional",
+    "Processamento de Linguagem Natural (PNL)"
+  ],
+  "resources": [
+    {
+      "title": "Documentação Oficial do Azure Machine Learning",
+      "url": "https://docs.microsoft.com/en-us/azure/machine-learning/"
+    },
+    {
+      "title": "Azure Machine Learning Studio",
+      "url": "https://ml.azure.com/"
+    }
+  ]
+}
